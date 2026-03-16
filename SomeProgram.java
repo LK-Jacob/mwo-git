@@ -3,3 +3,7 @@ public class SomeProgram {
         System.out.println("Będziemy expertami w Git-a");
     }
 }
+
+public void manageTheRockets() {
+	//TODO implament
+}
